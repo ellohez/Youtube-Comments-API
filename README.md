@@ -20,7 +20,7 @@ This project relies on the YouTube Data API: [view the YouTube API docs here](ht
 
 1. Typescript backend
 2. PostgreSql database
-3. Sequelise for Object Relational Mapper
+3. Sequelize for Object Relational Mapper
 4. Test Driven Development Approach implemented using Jest
 
 ### Challenges
